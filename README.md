@@ -7,4 +7,4 @@
 ### Completed
 
 - [x] Scoring algorithm
-- [] Rolling algorithm
+- [ ] Rolling algorithm
